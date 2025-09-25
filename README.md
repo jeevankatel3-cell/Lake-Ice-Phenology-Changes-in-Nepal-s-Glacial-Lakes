@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/placeholder/lake_logo.png" alt="Logo" width="140">
 </p>
 
-<h1 align="center">Himalayan Glacial-Lake Ice Phenology Toolkit</h1>
+<h1 align="center">Studying Ice Phenology Changes in Rapidly Changing Glacial Lakes of Nepalese Himalayas using an Adaptive Threshold-Based Approach – Repository</h1>
 
 <p align="center">
   Scripts & data underpinning the study
@@ -196,4 +196,5 @@ We thank Kathmandu University and the Global Institute for Interdisciplinary Stu
 ## 🔒 License
 Distributed under the **Creative Commons Attribution 4.0 International** license.  
 See [`LICENSE`](LICENSE) for full text.
+
 
