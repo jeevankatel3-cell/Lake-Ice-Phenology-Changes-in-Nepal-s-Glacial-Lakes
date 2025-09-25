@@ -9,7 +9,7 @@
 <p align="center">
   Scripts & data underpinning the study
   <em>"Studying Ice-Phenology Changes in Rapidly Changing Glacial Lakes of the Nepalese Himalayas using an Adaptive Threshold-Based Approach"</em><br>
-  <a href="https://doi.org/10.5281/zenodo.XXXXXXX"><img src="https://img.shields.io/badge/Zenodo-10.5281/zenodo.XXXXXXX-blue.svg?logo=zenodo" alt="DOI"></a>
+  <a href="https://doi.org/10.5281/zenodo.17197712"><img src="https://img.shields.io/badge/Zenodo-10.5281/zenodo.XXXXXXX-blue.svg?logo=zenodo" alt="DOI"></a>
   <a href="https://github.com/USERNAME/REPO/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC--BY%204.0-lightgrey.svg?logo=creativecommons" alt="License"></a>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python">
   <img alt="GEE" src="https://img.shields.io/badge/Google%20Earth%20Engine-Enabled-darkgreen?logo=google">
@@ -196,3 +196,4 @@ We thank Kathmandu University and the Global Institute for Interdisciplinary Stu
 ## 🔒 License
 Distributed under the **Creative Commons Attribution 4.0 International** license.  
 See [`LICENSE`](LICENSE) for full text.
+
