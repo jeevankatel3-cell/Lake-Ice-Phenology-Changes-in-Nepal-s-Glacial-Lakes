@@ -26,15 +26,12 @@
   - [Pre-Requisites](#pre-requisites)
   - [Development Environment](#development-environment)
   - [File Structure](#file-structure)
-  - [Build](#build)
-  - [Deployment](#deployment)
 - [Community](#-community)
   - [Contribution](#contribution)
   - [Branches](#branches)
   - [Guideline](#guideline)
 - [FAQ](#-faq)
 - [Resources](#resources)
-- [Gallery](#gallery)
 - [Credit / Acknowledgment](#-creditacknowledgment)
 - [License](#-license)
 
@@ -55,12 +52,8 @@ Key features:
 
 ### 🔌 Installation
 1. Clone the repo
-git clone https://github.com/USERNAME/REPO.git
+git clone https://github.com/jeevankatel3-cell/Lake-Ice-Phenology-Changes-in-Nepal-s-Glacial-Lakes.git
 cd REPO
-
-2. (Optional) create conda environment
-conda env create -f environment.yml
-conda activate lip-himalaya
 
 text
 You also need an **active Google Earth Engine account** and the **earthengine-api** (`pip install earthengine-api`).
@@ -92,10 +85,6 @@ text
 Fork then clone your fork
 git clone https://github.com/YOU/REPO.git
 
-Install deps
-conda env create -f environment.yml
-conda activate lip-himalaya
-
 text
 Open the GEE scripts in the Code Editor, update the **assets folder** paths, and run exports.
 
@@ -123,45 +112,20 @@ text
 | 3 | `codes/5` | Phenology extraction notebook |
 | 4 | `data/` | Frozen clean datasets (skip GEE if you use these) |
 
-### 🔨 Build
-Not applicable—Python notebooks run interactively; no compiled artefacts.
-
-### 🚀 Deployment
-For a fully cloud-based demo, open the notebooks on **Binder**:  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USERNAME/REPO/main)
-
----
 
 ## 🌸 Community
 
 ### 🔥 Contribution
 Your contributions are always welcome and appreciated. Following are the things you can do to contribute to this project:
 
-1. **Report a bug** If you think you have encountered a bug, and I should know about it, feel free to report it [here](https://github.com/USERNAME/REPO/issues) and I will take care of it.
-2. **Request a feature** You can also request for a feature [here](https://github.com/USERNAME/REPO/issues), and if it will viable, it will be picked for development.
-3. **Create a pull request** It can't get better than this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here](https://github.com/USERNAME/REPO/issues) and make a pull request.
-
-If you are new to open-source, make sure to check read more about it [here](https://opensource.com/resources/what-open-source) and learn more about creating a pull request [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+1. **Report a bug** If you think you have encountered a bug, and I should know about it, feel free to report it [here](https://github.com/jeevankatel3-cell/Lake-Ice-Phenology-Changes-in-Nepal-s-Glacial-Lakes.git/issues) and I will take care of it.
+2. **Request a feature** You can also request for a feature [here](https://github.com/jeevankatel3-cell/Lake-Ice-Phenology-Changes-in-Nepal-s-Glacial-Lakes.git/issues), and if it will viable, it will be picked for development.
+3. **Create a pull request** It can't get better than this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here](https://github.com/jeevankatel3-cell/Lake-Ice-Phenology-Changes-in-Nepal-s-Glacial-Lakes.git/issues) and make a pull request.
 
 ### 🌵 Branches
 | Branch | Purpose |
 |--------|---------|
 | `main` | Stable production code |
-| `develop` | Ongoing development |
-
-**Steps to work with feature branch**
-1. To start working on a new feature, create a new branch prefixed with `feat` and followed by feature name. (ie. `feat-FEATURE-NAME`)
-2. Once you are done with your changes, you can raise PR.
-
-**Steps to create a pull request**
-1. Make a PR to `develop` branch.
-2. Comply with the best practices and guidelines e.g. where the PR concerns visual elements it should have an image showing the effect.
-3. It must pass all continuous integration checks and get positive reviews.
-
-### ❗ Guideline
-Follow **PEP-8**, write docstrings, and keep notebooks under 500 lines. Large outputs belong in `data/` (≤ 100 MB).
-
----
 
 ## ❓ FAQ
 **Q:** Can I apply this to lakes < 1 km²?  
@@ -174,28 +138,19 @@ Follow **PEP-8**, write docstrings, and keep notebooks under 500 lines. Large ou
 
 ## 📄 Resources
 - Manuscript preprint → *coming soon*  
-- Zenodo archive → https://doi.org/10.5281/zenodo.XXXXXXX
+- Zenodo archive → https://doi.org/10.5281/zenodo.17197712
 - Google Earth Engine → https://earthengine.google.com/
 
----
-
-## 📷 Gallery
-<p align="center">
-  <!-- Add phenology figure or lake photo -->
-  <img src="https://user-images.githubusercontent.com/placeholder/phenology_plot.png" width="600" alt="Sample phenology plot">
-</p>
-
----
 
 ## 🌟 Credit/Acknowledgment
 Developed by **Jeevan Prakash Katel** and **Mohan Bahadur Chand**.  
-We thank Kathmandu University and the Global Institute for Interdisciplinary Studies for support.
 
 ---
 
 ## 🔒 License
 Distributed under the **Creative Commons Attribution 4.0 International** license.  
 See [`LICENSE`](LICENSE) for full text.
+
 
 
 
