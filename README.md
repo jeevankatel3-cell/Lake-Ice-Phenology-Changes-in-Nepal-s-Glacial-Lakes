@@ -26,7 +26,6 @@
   - [Pre-Requisites](#pre-requisites)
   - [Development Environment](#development-environment)
   - [File Structure](#file-structure)
-- [Community](#-community)
   - [Contribution](#contribution)
   - [Branches](#branches)
   - [Guideline](#guideline)
@@ -113,8 +112,6 @@ text
 | 4 | `data/` | Frozen clean datasets (skip GEE if you use these) |
 
 
-## 🌸 Community
-
 ### 🔥 Contribution
 Your contributions are always welcome and appreciated. Following are the things you can do to contribute to this project:
 
@@ -150,6 +147,7 @@ Developed by **Jeevan Prakash Katel** and **Mohan Bahadur Chand**.
 ## 🔒 License
 Distributed under the **Creative Commons Attribution 4.0 International** license.  
 See [`LICENSE`](LICENSE) for full text.
+
 
 
 
