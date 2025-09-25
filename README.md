@@ -3,17 +3,20 @@ Remote-sensing workflow, data sets and scripts for
 “Studying Ice-Phenology Changes in Rapidly Changing Glacial Lakes of the Nepalese Himalayas using an Adaptive Threshold-Based Approach” (submitted to JGR Biogeosciences).
 
 1. Repository Contents
-├── 1-Training_and_exporting_lake_boundary_classifier.js
-├── 2-Surface_area_delineation_using_RFClassifier.js
-├── 3-Training_classifier_exporting_lakeicefraction_dataset.js
-├── 4-Model_optimization_threshold_analysis.ipynb
-├── 5-Phenology_extraction.ipynb
+.
+├── codes/
+│   ├── 1-Training_and_exporting_lake_boundary_classifier.js
+│   ├── 2-Surface_area_delineation_using_RFClassifier.js
+│   ├── 3-Training_classifier_exporting_lakeicefraction_dataset.js
+│   ├── 4-Model_optimization_threshold_analysis.ipynb
+│   └── 5-Phenology_extraction.ipynb
 ├── data/
-│ ├── reflectance_timeseries_.csv
-│ ├── icefractionDataset_.csv
-│ ├── LIP_Dates+Analysis_.xlsx
-│ └── Model_Optimization_20_best_models_.csv
-└── LICENSE (CC-BY 4.0)
+│   ├── reflectance_timeseries_*.csv
+│   ├── icefractionDataset_*.csv
+│   ├── LIP_Dates+Analysis_*.xlsx
+│   └── Model_Optimization_20_best_models_*.csv
+└── LICENSE  (CC-BY 4.0)
+.
 
 *.js Google Earth Engine (GEE) scripts for boundary delineation and ice-fraction mapping
 
@@ -66,4 +69,5 @@ All code and data are released under Creative Commons Attribution 4.0.
 Questions or contributions → jeevan.katel3@gmail.com.
 
 Pull requests and issue reports are welcome!
+
 
