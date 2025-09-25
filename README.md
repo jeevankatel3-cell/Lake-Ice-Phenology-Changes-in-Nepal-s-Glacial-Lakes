@@ -22,16 +22,12 @@
 - [Usage](#-usage)
   - [Installation](#installation)
   - [Commands](#commands)
-- [Development](#-development)
   - [Pre-Requisites](#pre-requisites)
-  - [Development Environment](#development-environment)
   - [File Structure](#file-structure)
   - [Contribution](#contribution)
   - [Branches](#branches)
-  - [Guideline](#guideline)
-- [FAQ](#-faq)
+  - [FAQ](#-faq)
 - [Resources](#resources)
-- [Credit / Acknowledgment](#-creditacknowledgment)
 - [License](#-license)
 
 ---
@@ -67,25 +63,13 @@ jupyter notebook codes/4-Model_optimization_threshold_analysis.ipynb
 Extract phenology
 jupyter notebook codes/5-Phenology_extraction.ipynb
 
-text
-
----
-
-## 🔧 Development
-
 ### 📓 Pre-Requisites
 | Tool | Purpose |
 |------|---------|
 | Google Earth Engine | Satellite data processing |
 | Python ≥ 3.9      | Notebooks & analysis      |
-| Geemap, Pandas, Statsmodels | Dependencies (see `environment.yml`) |
+| Geemap, Pandas, Statsmodels | Dependencies |
 
-### 🔩 Development Environment
-Fork then clone your fork
-git clone https://github.com/YOU/REPO.git
-
-text
-Open the GEE scripts in the Code Editor, update the **assets folder** paths, and run exports.
 
 ### 📁 File Structure
 .
@@ -113,11 +97,7 @@ text
 
 
 ### 🔥 Contribution
-Your contributions are always welcome and appreciated. Following are the things you can do to contribute to this project:
-
-1. **Report a bug** If you think you have encountered a bug, and I should know about it, feel free to report it [here](https://github.com/jeevankatel3-cell/Lake-Ice-Phenology-Changes-in-Nepal-s-Glacial-Lakes.git/issues) and I will take care of it.
-2. **Request a feature** You can also request for a feature [here](https://github.com/jeevankatel3-cell/Lake-Ice-Phenology-Changes-in-Nepal-s-Glacial-Lakes.git/issues), and if it will viable, it will be picked for development.
-3. **Create a pull request** It can't get better than this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here](https://github.com/jeevankatel3-cell/Lake-Ice-Phenology-Changes-in-Nepal-s-Glacial-Lakes.git/issues) and make a pull request.
+Your contributions are always welcome and appreciated. **Report a bug** If you think you have encountered a bug, and I should know about it, feel free to report it 
 
 ### 🌵 Branches
 | Branch | Purpose |
@@ -138,15 +118,12 @@ Your contributions are always welcome and appreciated. Following are the things 
 - Zenodo archive → https://doi.org/10.5281/zenodo.17197712
 - Google Earth Engine → https://earthengine.google.com/
 
-
-## 🌟 Credit/Acknowledgment
-Developed by **Jeevan Prakash Katel** and **Mohan Bahadur Chand**.  
-
 ---
 
 ## 🔒 License
 Distributed under the **Creative Commons Attribution 4.0 International** license.  
 See [`LICENSE`](LICENSE) for full text.
+
 
 
 
